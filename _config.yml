@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: SuZhenCheng Blog
 SEOTitle: 苏镇城的博客 | Action.C szcheng Blog
 header-img: img/home-bg.jpg
 email: 110268327@qq.com
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     szc3659
+zhihu_username:     szc3659
+github_username:    szc3659
+twitter_username:   szc3659
+#facebook_username:  szc3659
 #linkedin_username:  firstname-lastname-idxxxx
 
 
